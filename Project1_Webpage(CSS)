@@ -7,19 +7,25 @@ body {
   font-size: 0.9em;
 }
 
+
 p {
   margin: 10px 0;
 }
+
+
 ul {
 background-color:#d3d3d3;
   list-style-type: none;
   margin: auto;
 }
+
+
 li{
   background-color:#d3d3d3;
   font-size: 15px;
   line-height: 20px;
 }
+
 
 .lesson{
   color: black;
@@ -30,9 +36,8 @@ li{
 h1 {
   text-align: center;
   padding: 10px;
-  color: 	#C71585
+  color: 	#c71585
 }
-
 
 
 h2 {
@@ -66,15 +71,26 @@ p {
 	margin: 6px;
 }
 
-.code {
-  font-family: arial;
-  color: gray;
-  font-weight: bold;
-  padding-left: 4px;
-  padding-right: 4px;
-}
-
  h3 {
-   color: #DC143C;
+  font-size: 14px;
+   color: #c71585;
+   font-weight: bold;
+ }
+
+ h4 {
+  font-size: 14px;
+   color: #c71585;
+   font-weight: bold;
+ }
+
+ h5 {
+  font-size: 14px;
+   color: #c71585;
+   font-weight: bold;
+ }
+
+ h6 {
+  font-size: 14px;
+   color: #808080;
    font-weight: bold;
  }
